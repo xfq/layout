@@ -5,6 +5,11 @@ export default defineConfig({
   lang: 'zh-Hans',
   title: "语言排版需求",
   description: "各语言和书写系统于排版上的需求和问题。",
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/logo-mini.png' }],
+    // ['meta', { name: 'theme-color', content: '' }],
+  ],
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
