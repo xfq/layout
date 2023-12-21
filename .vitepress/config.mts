@@ -13,7 +13,8 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: '列表', link: '/arab/arb' }
+      { text: '需求文档', link: '/arab/arb' },
+      { text: '语言文字列表', link: 'https://xfq.github.io/scripts/name/index.zh-Hans.html' }
     ],
 
     sidebar: [

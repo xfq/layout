@@ -8,7 +8,7 @@ hero:
   tagline: 各语言和书写系统于排版上的需求和问题
   actions:
     - theme: brand
-      text: 列表
+      text: 需求文档
       link: /arab/arb
 ---
 
