@@ -27,12 +27,22 @@ export default defineConfig({
         ]
       },
       {
-        text: '中文',
-        link: 'https://www.w3.org/TR/clreq/'
+        text: '朝鲜语',
+        link: '/kore/ko'
       },
       {
         text: '日语',
         link: '/jpan/ja'
+      },
+      {
+        text: '爪哇字母',
+        items: [
+          { text: '爪哇语', link: '/java/jv' }
+        ]
+      },
+      {
+        text: '中文',
+        link: 'https://www.w3.org/TR/clreq/'
       },
     ],
 
