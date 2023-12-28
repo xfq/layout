@@ -25,7 +25,15 @@ export default defineConfig({
           { text: '现代标准阿拉伯语', link: '/arab/arb' },
           { text: '波斯语', link: '/arab/pes' }
         ]
-      }
+      },
+      {
+        text: '中文',
+        link: 'https://www.w3.org/TR/clreq/'
+      },
+      {
+        text: '日语',
+        link: '/jpan/ja'
+      },
     ],
 
     socialLinks: [
