@@ -60,23 +60,83 @@ TBD
 
 ### 字符编码
 
+阿拉伯字母在Unicode标准中是按**语义**编码的。也就是说，不管一个字母有多少种形式，都只有一个Unicode码位，
+
+Unicode还为阿拉伯字母提供了部分**非语义**编码字符，分布在**阿拉伯字母表达形式-A**（Arabic Presentation Forms-A）和**阿拉伯字母表达形式-B**（Arabic Presentation Forms-B）两个区块中。这些字符已被弃用，不应在一般的信息交换中使用。
+
+## 字符列表
+
+下面的表格列出了用阿拉伯字母书写波斯语时使用的Unicode字符。
+
+### 字母
+
+| **字符** | **码位** | **名称**                            |
+|----------|----------|-------------------------------------|
+| ء        | U+0621   | ARABIC LETTER HAMZA                 |
+| آ        | U+0622   | ARABIC LETTER ALEF WITH MADDA ABOVE |
+| أ        | U+0623   | ARABIC LETTER ALEF WITH HAMZA ABOVE |
+| ؤ        | U+0624   | ARABIC LETTER WAW WITH HAMZA ABOVE  |
+| إ        | U+0625   | ARABIC LETTER ALEF WITH HAMZA BELOW |
+| ئ        | U+0626   | ARABIC LETTER YEH WITH HAMZA ABOVE  |
+| ا        | U+0627   | ARABIC LETTER ALEF                  |
+| ب        | U+0628   | ARABIC LETTER BEH                   |
+| ة        | U+0629   | ARABIC LETTER TEH MARBUTA           |
+| ت        | U+062A   | ARABIC LETTER TEH                   |
+| ث        | U+062B   | ARABIC LETTER THEH                  |
+| ج        | U+062C   | ARABIC LETTER JEEM                  |
+| ح        | U+062D   | ARABIC LETTER HAH                   |
+| خ        | U+062E   | ARABIC LETTER KHAH                  |
+| د        | U+062F   | ARABIC LETTER DAL                   |
+| ذ        | U+0630   | ARABIC LETTER THAL                  |
+| ر        | U+0631   | ARABIC LETTER REH                   |
+| ز        | U+0632   | ARABIC LETTER ZAIN                  |
+| س        | U+0633   | ARABIC LETTER SEEN                  |
+| ش        | U+0634   | ARABIC LETTER SHEEN                 |
+| ص        | U+0635   | ARABIC LETTER SAD                   |
+| ض        | U+0636   | ARABIC LETTER DAD                   |
+| ط        | U+0637   | ARABIC LETTER TAH                   |
+| ظ        | U+0638   | ARABIC LETTER ZAH                   |
+| ع        | U+0639   | ARABIC LETTER AIN                   |
+| غ        | U+063A   | ARABIC LETTER GHAIN                 |
+| ف        | U+0641   | ARABIC LETTER FEH                   |
+| ق        | U+0642   | ARABIC LETTER QAF                   |
+| ك        | U+0643   | ARABIC LETTER KAF                   |
+| ل        | U+0644   | ARABIC LETTER LAM                   |
+| م        | U+0645   | ARABIC LETTER MEEM                  |
+| ن        | U+0646   | ARABIC LETTER NOON                  |
+| ه        | U+0647   | ARABIC LETTER HEH                   |
+| و        | U+0648   | ARABIC LETTER WAW                   |
+| ى        | U+0649   | ARABIC LETTER ALEF MAKSURA          |
+| ي        | U+064A   | ARABIC LETTER YEH                   |
+| ٱ        | U+0671   | ARABIC LETTER ALEF WASLA            |
+| پ        | U+067E   | ARABIC LETTER PEH                   |
+| چ        | U+0686   | ARABIC LETTER TCHEH                 |
+| ژ        | U+0698   | ARABIC LETTER JEH                   |
+| ک        | U+06A9   | ARABIC LETTER KEHEH                 |
+| گ        | U+06AF   | ARABIC LETTER GAF                   |
+| ی        | U+06CC   | ARABIC LETTER FARSI YEH             |
+
+### 音符
+
 ## 词汇表
 
-| **英语**                | **简体中文** |
-|-------------------------|--------------|
-| baseline                | 基线         |
-| bleed                   | 出血         |
-| code point              | 码位         |
-| contextual form         | 内文形式     |
-| Eastern Arabic numerals | 阿拉伯文数字 |
-| European numerals       | 阿拉伯数字   |
-| final form              | 尾部形式     |
-| font                    | 字体         |
-| horizontal writing mode | 横排         |
-| initial form            | 首部形式     |
-| isolated form           | 独立形式     |
-| medial form             | 中部形式     |
-| vertical writing mode   | 直排         |
+| **英语**                | **简体中文**        |
+|-------------------------|---------------------|
+| baseline                | 基线                |
+| bleed                   | 出血                |
+| block (Unicode)         | 区块，块（Unicode） |
+| code point              | 码位                |
+| contextual form         | 内文形式            |
+| diacritics              | 音符                |
+| Eastern Arabic numerals | 阿拉伯文数字        |
+| European numerals       | 阿拉伯数字          |
+| final form              | 尾部形式            |
+| font                    | 字体                |
+| horizontal writing mode | 横排                |
+| initial form            | 首部形式            |
+| isolated form           | 独立形式            |
+| medial form             | 中部形式            |
+| vertical writing mode   | 直排                |
 
 ## 参考文献
 
