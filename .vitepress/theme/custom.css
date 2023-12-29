@@ -34,3 +34,21 @@ figcaption {
 img {
     display: inline;
 }
+
+/* Footnotes */
+
+.footnote-label {
+    vertical-align: super;
+    font-size: 0.5em;
+    margin-left: 2px;
+    color: var(--vp-c-brand-1);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/**
+ * Highlight target note
+ */
+/* .footnote :target {
+  background: yellow;
+} */
