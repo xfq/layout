@@ -122,6 +122,94 @@ Unicode还为阿拉伯字母提供了部分**非语义**编码字符，分布在
 
 ### 音符
 
+<table>
+<thead>
+<tr>
+<th>字符</th>
+<th>码位</th>
+<th>名称</th>
+</tr>
+</thead>
+
+<tbody>
+<tr id="def_U+064B">
+<td class="rtlTermCell" dir="rtl" lang="ar"><img src="./images/characters/U+064B.svg" alt="ARABIC FATHATAN" class="charimage">
+</td>
+
+<td class="uname">U+064B</td>
+<td class="uname">ARABIC FATHATAN</td>
+</tr>
+
+
+<tr id="def_U+064C">
+<td class="rtlTermCell" dir="rtl" lang="ar"><img src="./images/characters/U+064C.svg" alt="ARABIC DAMMATAN" class="charimage">
+</td>
+
+<td class="uname">U+064C</td>
+<td class="uname">ARABIC DAMMATAN</td>
+</tr>
+
+
+<tr id="def_U+064D">
+<td class="rtlTermCell" dir="rtl" lang="ar"><img src="./images/characters/U+064D.svg" alt="ARABIC KASRATAN" class="charimage">
+</td>
+
+<td class="uname">U+064D</td>
+<td class="uname">ARABIC KASRATAN</td>
+</tr>
+
+
+<tr id="def_U+064E">
+<td class="rtlTermCell" dir="rtl" lang="ar"><img src="./images/characters/U+064E.svg" alt="ARABIC FATHA" class="charimage">
+</td>
+
+<td class="uname">U+064E</td>
+<td class="uname">ARABIC FATHA</td>
+</tr>
+
+
+<tr id="def_U+064F">
+<td class="rtlTermCell" dir="rtl" lang="ar"><img src="./images/characters/U+064F.svg" alt="ARABIC DAMMA" class="charimage">
+</td>
+
+<td class="uname">U+064F</td>
+<td class="uname">ARABIC DAMMA</td>
+</tr>
+
+
+<tr id="def_U+0650">
+<td class="rtlTermCell" dir="rtl" lang="ar"><img src="./images/characters/U+0650.svg" alt="ARABIC KASRA" class="charimage">
+</td>
+
+<td class="uname">U+0650</td>
+<td class="uname">ARABIC KASRA</td>
+</tr>
+
+
+<tr id="def_U+0651">
+<td class="rtlTermCell" dir="rtl" lang="ar"><img src="./images/characters/U+0651.svg" alt="ARABIC SHADDA" class="charimage">
+</td>
+
+<td class="uname">U+0651</td>
+<td class="uname">ARABIC SHADDA</td>
+</tr>
+
+
+<tr id="def_U+0652">
+<td class="rtlTermCell" dir="rtl" lang="ar"><img src="./images/characters/U+0652.svg" alt="ARABIC SUKUN" class="charimage">
+</td>
+
+<td class="uname">U+0652</td>
+<td class="uname">ARABIC SUKUN</td>
+</tr>
+
+</tbody>
+</table>
+
+### 数字
+
+
+
 ## 词汇表
 
 | **英语**                | **简体中文**        |

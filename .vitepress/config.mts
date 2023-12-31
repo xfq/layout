@@ -56,6 +56,10 @@ export default defineConfig({
       copyright: 'Copyright xfq@w3.org'
     },
 
-    darkModeSwitchLabel: '主题'
+    darkModeSwitchLabel: '主题',
+
+    outline: {
+      level: 'deep'
+    }
   }
 })
