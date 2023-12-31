@@ -208,7 +208,18 @@ Unicode还为阿拉伯字母提供了部分**非语义**编码字符，分布在
 
 ### 数字
 
-
+| **字符** | **码位** | **名称**                 |
+|----------|----------|--------------------------|
+| ٠        | U+0660   | ARABIC-INDIC DIGIT ZERO  |
+| ١        | U+0661   | ARABIC-INDIC DIGIT ONE   |
+| ٢        | U+0662   | ARABIC-INDIC DIGIT TWO   |
+| ٣        | U+0663   | ARABIC-INDIC DIGIT THREE |
+| ٤        | U+0664   | ARABIC-INDIC DIGIT FOUR  |
+| ٥        | U+0665   | ARABIC-INDIC DIGIT FIVE  |
+| ٦        | U+0666   | ARABIC-INDIC DIGIT SIX   |
+| ٧        | U+0667   | ARABIC-INDIC DIGIT SEVEN |
+| ٨        | U+0668   | ARABIC-INDIC DIGIT EIGHT |
+| ٩        | U+0669   | ARABIC-INDIC DIGIT NINE  |
 
 ## 词汇表
 

@@ -237,6 +237,21 @@ Unicode还为阿拉伯字母提供了部分**非语义**编码字符，分布在
 </tbody>
 </table>
 
+### 数字
+
+| **字符** | **码位** | **名称**                          |
+|----------|----------|-----------------------------------|
+| ۰        | U+06F0   | EXTENDED ARABIC-INDIC DIGIT ZERO  |
+| ۱        | U+06F1   | EXTENDED ARABIC-INDIC DIGIT ONE   |
+| ۲        | U+06F2   | EXTENDED ARABIC-INDIC DIGIT TWO   |
+| ۳        | U+06F3   | EXTENDED ARABIC-INDIC DIGIT THREE |
+| ۴        | U+06F4   | EXTENDED ARABIC-INDIC DIGIT FOUR  |
+| ۵        | U+06F5   | EXTENDED ARABIC-INDIC DIGIT FIVE  |
+| ۶        | U+06F6   | EXTENDED ARABIC-INDIC DIGIT SIX   |
+| ۷        | U+06F7   | EXTENDED ARABIC-INDIC DIGIT SEVEN |
+| ۸        | U+06F8   | EXTENDED ARABIC-INDIC DIGIT EIGHT |
+| ۹        | U+06F9   | EXTENDED ARABIC-INDIC DIGIT NINE  |
+
 ## 词汇表
 
 | **英语**                | **简体中文**        |
