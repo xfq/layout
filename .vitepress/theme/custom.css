@@ -46,6 +46,16 @@ img {
     cursor: pointer;
 }
 
+/* termref */
+
+a.termref:link,
+a.termref:hover,
+a.termref:visited,
+a.termref:active {
+  text-decoration:none;
+  border-bottom: 1px dotted #FC0;
+}
+
 /**
  * Highlight target note
  */
