@@ -23,7 +23,8 @@ export default defineConfig({
         text: '阿拉伯字母',
         items: [
           { text: '现代标准阿拉伯语', link: '/arab/arb' },
-          { text: '波斯语', link: '/arab/pes' }
+          { text: '波斯语', link: '/arab/pes' },
+          { text: '维吾尔语', link: '/arab/ug' }
         ]
       },
       {
