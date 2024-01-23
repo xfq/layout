@@ -32,6 +32,12 @@ export default defineConfig({
         link: '/kore/ko'
       },
       {
+        text: '传统蒙古文',
+        items: [
+          { text: '蒙古语', link: '/mong/mn' }
+        ]
+      },
+      {
         text: '日语',
         link: '/jpan/ja'
       },
