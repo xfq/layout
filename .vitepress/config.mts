@@ -36,6 +36,12 @@ export default defineConfig({
         link: '/jpan/ja'
       },
       {
+        text: '泰文',
+        items: [
+          { text: '泰语', link: '/thai/th' }
+        ]
+      },
+      {
         text: '爪哇字母',
         items: [
           { text: '爪哇语', link: '/java/jv' }
