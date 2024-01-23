@@ -14,8 +14,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '需求文档', link: '/arab/arb' },
-      { text: '语言文字列表', link: 'https://xfq.github.io/scripts/name/index.zh-Hans.html' },
-      { text: '知乎', link: 'https://www.zhihu.com/people/xue-fuqiao' }
+      { text: '语言文字列表', link: 'https://xfq.github.io/scripts/name/index.zh-Hans.html' }
     ],
 
     sidebar: [
