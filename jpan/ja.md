@@ -18,6 +18,12 @@
 
 汉字、平假名和片假名大小相同，有着正方形的文字外框。文字外框的正中央，有着比文字外框小的字面（反过来说，字面的上下左右与文字外框之间有若干空白。根据不同的字面设计，空白的大小会有所不同）。
 
+文字尺寸指的是文字外框的尺寸。
+
+## 词汇表
+
+
+
 ## 参考文献
 
 * Hiroyuki Chiba; et al. Requirements for Japanese Text Layout 日本語組版処理の要件. 11 August 2020. NOTE. URL: https://www.w3.org/TR/jlreq/
