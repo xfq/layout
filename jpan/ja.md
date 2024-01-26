@@ -18,7 +18,20 @@
 
 汉字、平假名和片假名大小相同，有着正方形的文字外框。文字外框的正中央，有着比文字外框小的字面（反过来说，字面的上下左右与文字外框之间有若干空白。根据不同的字面设计，空白的大小会有所不同）。
 
-<p><a class="termref" href="#term.character-size">文字尺寸</a>指的是文字外框的尺寸。</p>
+<a class="termref" href="#term.character-size">文字尺寸</a>指的是文字外框的尺寸。
+
+## 汉字和假名的配置原则
+
+原则上，汉字、平假名和片假名的<a class="termref" href="#term.character-frame">文字外框</a>彼此紧贴配置，称作<a class="termref" href="#term.solid-setting">密排</a>。
+
+<!-- ## 日语排版的页面设计 -->
+
+## 文字书写方向
+
+### 日文的书写方向
+
+日文的文字书写方向分为<a class="termref" href="#term.vertical-writing-mode">直排</a>与<a class="termref" href="#term.horizontal-writing-mode">横排</a>。
+
 
 ## 词汇表
 
@@ -115,12 +128,18 @@
 <td>horizontal writing mode</td>
 <td lang="ja">横組</td>
 <td>横排</td>
-<td> </td>
+<td>行内每字按水平方向由左至右，页内每行从上至下、每栏由左至右的排列方法，或者按此方法的排列状态。</td>
 </tr>
 <tr id="term.hyphenation">
 <td>hyphenation</td>
 <td lang="ja">ハイフネーション</td>
 <td> </td>
+<td> </td>
+</tr>
+<tr id="term.illustrations">
+<td>illustrations</td>
+<td lang="ja">図版</td>
+<td>图片</td>
 <td> </td>
 </tr>
 <tr id="term.japanese-and-western-mixed-text-composition">
@@ -147,6 +166,37 @@
 <td>宋体</td>
 <td> </td>
 </tr>
+<tr id="term.number-of-columns">
+<td>number of columns</td>
+<td lang="ja">段数</td>
+<td>栏数</td>
+<td> </td>
+</tr>
+<tr id="term.page-format">
+<td>page format</td>
+<td lang="ja">組体裁</td>
+<td>排版样式</td>
+<td>书籍等出版物上图、文及其他元素的版式布局及表现形式。</td>
+</tr>
+<tr id="term.printing-types">
+<td>printing types</td>
+<td lang="ja">活字</td>
+<td>活字</td>
+<td></td>
+</tr>
+<tr id="term.solid-setting">
+<td>solid setting</td>
+<td lang="ja">ベタ組</td>
+<td>密排</td>
+<td>将文字依其外框紧密排列的排版方式。</td>
+</tr>
+<tr id="term.vertical-writing-mode">
+<td>vertical writing mode</td>
+<td lang="ja">縦組</td>
+<td>直排/竖排</td>
+<td>行内每字按垂直方向由上至下，页内每行从右至左、每栏由上至下的排列方法，或者按此方法的排列状态。</td>
+</tr>
+
 </tbody>
 </table>
 
@@ -154,3 +204,4 @@
 
 * Hiroyuki Chiba; et al. Requirements for Japanese Text Layout 日本語組版処理の要件. 11 August 2020. NOTE. URL: https://www.w3.org/TR/jlreq/
 * JIS X 4051：2004（日本語文書の組版方法，Formatting rules for Japanese documents），日本規格協会，東京，2004年
+* Bobby Tung; Yijun Chen; Eric Q LIU; Hui Jing Chen; Zhengyu Qian; Fuqiao Xue; Richard Ishida. Requirements for Chinese Text Layout - 中文排版需求. 1 November 2023. W3C Note. URL: https://www.w3.org/TR/clreq/

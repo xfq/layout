@@ -12,9 +12,15 @@ font,フォント,字体,
 full-width,全角,全角,
 group-ruby,グループルビ,,
 half-width,半角,半角,
-horizontal writing mode,横組,横排,
+horizontal writing mode,横組,横排,行内每字按水平方向由左至右，页内每行从上至下、每栏由左至右的排列方法，或者按此方法的排列状态。
 hyphenation,ハイフネーション,,
+illustrations,図版,图片,
 Japanese and Western mixed text composition,和欧文混植,日、西文混排,
 Jouyou Kanji Table,常用漢字表,常用汉字表,
 line adjustment,行の調整処理,行内调整,
 Mincho typeface,明朝体,宋体,
+number of columns,段数,栏数,
+page format,組体裁,排版样式,书籍等出版物上图、文及其他元素的版式布局及表现形式。
+printing types,活字,活字,
+solid setting,ベタ組,密排,将文字依其外框紧密排列的排版方式。
+vertical writing mode,縦組,直排/竖排,行内每字按垂直方向由上至下，页内每行从右至左、每栏由上至下的排列方法，或者按此方法的排列状态。
