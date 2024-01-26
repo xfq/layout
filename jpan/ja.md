@@ -32,6 +32,8 @@
 
 日文的文字书写方向分为<a class="termref" href="#term.vertical-writing-mode">直排</a>与<a class="termref" href="#term.horizontal-writing-mode">横排</a>。
 
+> [!NOTE]
+> 政府文件和教育资源大多采用横排。大部分主流报纸完全采用直排，面向普通读者的大部分杂志也采用直排。此外，阅读量最大的图书——小说也大多采用直排（有些读者说，如果小说不采用直排，他们就无法阅读）。因此，可以预计直排对日语的重要性暂时不会改变。
 
 ## 词汇表
 
