@@ -36,6 +36,10 @@
 
 <a class="termref" href="#term.character-size">文字尺寸</a>指的是文字外框的尺寸。
 
+除了**全角**的汉字和假名之外，Unicode中还有一个**半角**片假名区块，不过这些码位产生于计算机的早期，通常不推荐使用。
+
+全角拉丁字母也很常见。Unicode中有一个全角拉丁字母和标点的区块，不过一般推荐使用字体来切换全角和半角。
+
 ## 汉字和假名的配置原则
 
 原则上，汉字、平假名和片假名的<a class="termref" href="#term.character-frame">文字外框</a>彼此紧贴配置，称作<a class="termref" href="#term.solid-setting">密排</a>。
