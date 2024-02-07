@@ -18,7 +18,7 @@
 
 现代日文由几种文字构成：起源于中国的表意文字——**汉字**，音节文字——**平假名**（主要用在接头词、形容词与动词的活用语尾，以及没有汉字的日文词）和**片假名**（主要用于外来语）以及以拉丁字母书写的罗马字。
 
-《大汉和辞典》共记载超过四万个汉字，不过现代日语中常用汉字大约只有两千余个。
+《大汉和辞典》共记载超过四万个汉字，不过现代日语中常用汉字大约只有两千余个。<a href="#footnote-4" class="footnote-label">[4]</a>
 
 ![平假名与片假名](./images/hiragana-katakana.png "平假名与片假名")
 
@@ -266,6 +266,9 @@
 
 ## 参考文献
 
-* Hiroyuki Chiba; et al. Requirements for Japanese Text Layout 日本語組版処理の要件. 11 August 2020. NOTE. URL: https://www.w3.org/TR/jlreq/
-* JIS X 4051：2004（日本語文書の組版方法，Formatting rules for Japanese documents），日本規格協会，東京，2004年
-* Bobby Tung; Yijun Chen; Eric Q LIU; Hui Jing Chen; Zhengyu Qian; Fuqiao Xue; Richard Ishida. Requirements for Chinese Text Layout - 中文排版需求. 1 November 2023. W3C Note. URL: https://www.w3.org/TR/clreq/
+<div class="footnote">
+<p id="footnote-1">[1] Hiroyuki Chiba; et al. Requirements for Japanese Text Layout 日本語組版処理の要件. 11 August 2020. NOTE. URL: <a href="https://www.w3.org/TR/jlreq/">https://www.w3.org/TR/jlreq/</a></p>
+<p id="footnote-2">[2] JIS X 4051：2004（日本語文書の組版方法，Formatting rules for Japanese documents），日本規格協会，東京，2004年</p>
+<p id="footnote-3">[3] Bobby Tung; Yijun Chen; Eric Q LIU; Hui Jing Chen; Zhengyu Qian; Fuqiao Xue; Richard Ishida. Requirements for Chinese Text Layout - 中文排版需求. 1 November 2023. W3C Note. URL: <a href="https://www.w3.org/TR/clreq/">https://www.w3.org/TR/clreq/</a></p>
+<p id="footnote-4">[4] Wikipedia, <a href="https://ja.wikipedia.org/wiki/%E5%B8%B8%E7%94%A8%E6%BC%A2%E5%AD%97" lang="ja">常用漢字</a></p>
+</div>
