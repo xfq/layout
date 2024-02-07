@@ -56,6 +56,13 @@ a.termref:active {
   border-bottom: 1px dotted #FC0;
 }
 
+/* Details */
+
+details > summary {
+  font-size: 80%;
+  line-height: 1.4;
+}
+
 /**
  * Highlight target note
  */
