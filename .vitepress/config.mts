@@ -47,6 +47,12 @@ export default defineConfig({
         ]
       },
       {
+        text: '希腊字母',
+        items: [
+          { text: '现代希腊语', link: '/grek/el' }
+        ]
+      },
+      {
         text: '爪哇字母',
         items: [
           { text: '爪哇语', link: '/java/jv' }
