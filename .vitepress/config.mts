@@ -53,6 +53,12 @@ export default defineConfig({
         ]
       },
       {
+        text: '希伯来字母',
+        items: [
+          { text: '现代希伯来语', link: '/hebr/he' }
+        ]
+      },
+      {
         text: '希腊字母',
         items: [
           { text: '现代希腊语', link: '/grek/el' }
