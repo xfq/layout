@@ -47,6 +47,12 @@ export default defineConfig({
         ]
       },
       {
+        text: '天城文',
+        items: [
+          { text: '印地语', link: '/deva/hi' }
+        ]
+      },
+      {
         text: '希腊字母',
         items: [
           { text: '现代希腊语', link: '/grek/el' }
