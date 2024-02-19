@@ -37,6 +37,12 @@ export default defineConfig({
         ]
       },
       {
+        text: '缅文',
+        items: [
+          { text: '缅甸语', link: '/mymr/my' }
+        ]
+      },
+      {
         text: '日语',
         link: '/jpan/ja'
       },
