@@ -15,3 +15,11 @@
 希伯来语用希伯来字母从右往左书写，而其中包含的数字和拉丁字母则从左往右书写。
 
 希伯来字母不区分大小写。
+
+## 音系
+
+
+
+## 参考文献
+
+Wikipedia, Modern Hebrew phonology. URL: https://en.wikipedia.org/wiki/Modern_Hebrew_phonology
