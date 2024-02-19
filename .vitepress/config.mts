@@ -90,6 +90,11 @@ export default defineConfig({
 
     outline: {
       level: 'deep'
+    },
+
+    search: {
+      provider: 'local'
     }
+
   }
 })
