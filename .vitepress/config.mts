@@ -77,7 +77,7 @@ export default defineConfig({
         ]
       },
       {
-        text: '中文',
+        text: '中文（W3C）',
         link: 'https://www.w3.org/TR/clreq/'
       },
     ],
