@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'zh-Hans',
+  base: '/layout/',
   title: "语言排版需求",
   description: "各语言和书写系统于排版上的需求和问题。",
   head: [
@@ -83,7 +84,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/xfq/lreq' }
+      { icon: 'github', link: 'https://github.com/xfq/layout' }
       // Mastodon
     ],
 
