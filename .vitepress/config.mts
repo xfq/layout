@@ -38,6 +38,12 @@ export default defineConfig({
         ]
       },
       {
+        text: '高棉文',
+        items: [
+          { text: '高棉语', link: '/khmr/km' }
+        ]
+      },
+      {
         text: '缅文',
         items: [
           { text: '缅甸语', link: '/mymr/my' }
