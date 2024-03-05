@@ -6,6 +6,8 @@
 
 天城文是一种<a class="termref" href="https://xfq.github.io/glossary/i18n/#term.abugida">元音附标文字</a>，辅音字母本身即有元音，其他元音则通过将辅音与一个或多个附加符号组合表示。
 
+<a class="termref" href="https://xfq.github.io/glossary/i18n/#term.orthographic-syllable">正写法音节</a>在天城文中起着重要的作用。一个正写法音节从辅音丛的开头开始，包含了整个辅音丛以及后面的元音和附加符号。
+
 ## 天城文的书写方向
 
 文字由左向右，行由上向下排列。
