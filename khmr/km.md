@@ -14,6 +14,10 @@
 
 高棉文不区分大小写。
 
+## 元音
+
+高棉语是一种<a class="termref" href="https://xfq.github.io/glossary/i18n/#term.abugida">元音附标文字</a>，有2个默认元音。
+
 ## 参考文献
 
 <div class="footnote">
