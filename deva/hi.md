@@ -8,6 +8,8 @@
 
 <a class="termref" href="https://xfq.github.io/glossary/i18n/#term.orthographic-syllable">正写法音节</a>在天城文中起着重要的作用。一个正写法音节从辅音丛的开头开始，包含了整个辅音丛以及后面的元音和附加符号。
 
+印地语包含12个独立元音。
+
 ## 天城文的书写方向
 
 文字由左向右，行由上向下排列。
