@@ -4,7 +4,7 @@
 
 波斯语使用阿拉伯字母，并对其进行了扩展，以表示在阿拉伯语中没有的发音。阿拉伯字母是一种<a class="termref" href="https://xfq.github.io/glossary/i18n/#term.abjad">辅音音素文字</a>，通常使用辅音和长元音来区分单词。
 
-波斯语从右往左书写，而其中包含的数字和拉丁字母则从左往右书写。
+阿拉伯字母从右往左书写，而其中包含的数字和拉丁字母则从左往右书写。
 
 波斯语有时使用波斯体书写。波斯体的基线呈倾斜状。
 
@@ -13,6 +13,16 @@
 **波斯语**是伊朗和阿富汗的官方语言。伊朗波斯语也称为西波斯语，阿富汗波斯语也称为东波斯语，当地称为达里语。
 
 **塔吉克语**是塔吉克斯坦使用的波斯语，用西里尔字母书写，因此不在本文档的描述范围内。
+
+## 文字书写方向
+
+阿拉伯字母从右往左书写，而其中包含的数字和拉丁字母则从左往右书写。
+
+如果页面和文档的主要文字为阿拉伯字母，布局和结构也会从右往左排列。
+
+### Unicode双向文本算法
+
+Unicode 双向文本算法（简称为bidi算法）<a href="#footnote-2" class="footnote-label">[2]</a>详细介绍了一种从右到左渲染文本的算法。
 
 ## 基本原则
 
@@ -284,4 +294,7 @@ Unicode还为阿拉伯字母提供了部分**非语义**编码字符，分布在
 
 ## 参考文献
 
-Richard Ishida. Arabic & Persian Layout Requirements. 12 December 2023. W3C Note. URL: https://www.w3.org/TR/alreq/
+<div class="footnote">
+<p id="footnote-1">[1] Richard Ishida. Arabic & Persian Layout Requirements. 30 April 2024. W3C Note. URL: <a href="https://www.w3.org/TR/alreq/">https://www.w3.org/TR/alreq/</a></p>
+<p id="footnote-2">[2] Manish Goregaokar मनीष गोरेगांवकर; Robin Leroy. Unicode Bidirectional Algorithm. 15 August 2023. Unicode Standard Annex #9. URL: <a href="https://www.unicode.org/reports/tr9/tr9-48.html">https://www.unicode.org/reports/tr9/tr9-48.html</a></p>
+</div>
